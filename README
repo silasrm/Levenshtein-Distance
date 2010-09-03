@@ -1,0 +1,3 @@
+Calcula o Gráu de Similaridade entre duas strings, podendo ignorar ou não a capitalização das letras, retornando um float de 0 a 100
+
+Autor: Silas Ribas @silasribas <silasrm@gmail.com>
